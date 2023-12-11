@@ -11,7 +11,7 @@
 - title: Research Interests
   type: list
   contents:
-    - AI in medicine, computational neuroscience, statistical analysis
+    - AI for bio,  statistical and machine learning models for heterogeneous/noisy/multi-modal data
 
 - title: Education
   type: time_table
@@ -81,12 +81,12 @@
       - Placed 1st in both Intraschool and National Indicium Research Conference Competition out of more
         than 80 participating teams nation-wide
 
-    - title: Undergraduate Researcher in Department of Statistical Sciences, University of Toronto, Canada
-      institution: Supervised by Prof. Pascal Tyrrell
-      year: Sept 2021 - Apr 2022
-      description:
-      - Trained a semi-supervised machine learning model for identifying major anatomical structures in musculoskeletal ultrasound images of knees
-      - Achieved a 50% reduction in the number of labeled images required, resulting in a cost-effective solution for landmarking the images
+    # - title: Undergraduate Researcher in Department of Statistical Sciences, University of Toronto, Canada
+    #   institution: Supervised by Prof. Pascal Tyrrell
+    #   year: Sept 2021 - Apr 2022
+    #   description:
+    #   - Trained a semi-supervised machine learning model for identifying major anatomical structures in musculoskeletal ultrasound images of knees
+    #   - Achieved a 50% reduction in the number of labeled images required, resulting in a cost-effective solution for landmarking the images
 
 - title: Presentations
   type: time_table

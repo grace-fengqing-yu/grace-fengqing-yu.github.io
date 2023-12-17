@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 Hi, welcome to my page! I'm a 4th-year student studying computer science at the University of Toronto.
 
-My research interest broadly lies in developing computational and statistical methods for biomedicine. Recently, I am interested in models that deal with noisy, heterogeneous, and multimodal data. I also look for developing algorithms that can be adaptive and transferable across different contexts. I like explore interdisciplinary challenges as I am intrigued by the adaptability and wide-ranging utility of these methods that span across diverse domains. 
+My research interest broadly lies in developing computational and statistical methods for biomedicine. Recently, I am interested in models that deal with noisy, heterogeneous, and multimodal data. I also look for developing algorithms that can be adaptive and transferable across different contexts. I like to explore interdisciplinary challenges as I am intrigued by the adaptability and wide-ranging utility of these methods that span across diverse domains. 
 
 During my undergrad, I've had the privilege of working with [Prof. Benjamin Haibe-Kains](https://www.bhklab.ca/) on drug response prediction, and with [Prof. Ting Li](https://sazabi4.github.io/) & [Prof. Joshua Speagle](https://joshspeagle.com/) on a cool astrostatistics project. Earlier, I worked with [Dr. Zongjie Wang](https://scholar.google.com/citations?user=h90fpFAAAAAJ&hl=en) on 3D bioprinting for precision medicine.
 

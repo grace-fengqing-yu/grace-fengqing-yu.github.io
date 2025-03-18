@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: left
-  image: profolio.jpeg
+  image: profolio_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Laguna Beach, California</p>

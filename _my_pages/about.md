@@ -6,7 +6,7 @@ subtitle:
 # subtitle: <a href='https://www.utoronto.ca/'>University of Toronto</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: test.jpg
   image_circular: false # crops the image to make it circular
   address: >

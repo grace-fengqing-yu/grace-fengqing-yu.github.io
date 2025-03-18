@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
-Hello! I'm a first-year Ph.D. student in Computation and Neural Systems at California Institute of Technology.
+Hello! I'm a first-year Ph.D. student in Computation and Neural Systems at the California Institute of Technology.
 
 I want to understand the dynamics and mechanisms underlying biological processes. I approach this through machine learning techniques and physics-inspired mechanistic models. Currently, I am working on trajectory inference using single-cell RNA-seq data.
 

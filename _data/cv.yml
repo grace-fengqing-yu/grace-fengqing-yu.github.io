@@ -11,11 +11,20 @@
 - title: Research Interests
   type: list
   contents:
-    - AI for bio,  statistical and machine learning models for heterogeneous/noisy/multi-modal data
+    - statistical and ML models for heterogeneous/noisy/multi-modal data
 
 - title: Education
   type: time_table
   contents:
+    - title: Computation and Neural Systems, Ph.D. student
+      institution: California Institute of Technology, Pasadena, United States
+      year: 2024 - 
+      # description:
+      #   - title: Computer Science Specialist
+      #     contents:
+      #       - GPA 3.96/4.0 
+      #       - Dean's List Scholar (2021-2024)
+
     - title: Honours Bachelor of Science (HBSc)
       institution: University of Toronto, Toronto, Canada
       year: 2020-2024
@@ -23,7 +32,7 @@
         - title: Computer Science Specialist
           contents:
             - GPA 3.96/4.0 
-            - Dean's List Scholar (2021-2023)
+            - Dean's List Scholar (2021-2024)
     # - title: Federal teaching diploma
     #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
     #   year: 1900
@@ -36,7 +45,7 @@
   contents:
     - title: Research Intern @ Sunnybrook Health Sciences Centre, Toronto, Canada
       institution: Supervised by Prof. Maged Goubran
-      year: May 2023 - Present
+      year: May 2023 - June 2024
       description:
       - Leading the development of a 3D deep learning pipeline dedicated to the precise segmentation of
         neuronal somas in whole-brain light sheet fluorescence microscopy rodent data
